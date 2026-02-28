@@ -32,15 +32,6 @@ Construo aplicações web modernas, responsivas e escaláveis utilizando o ecoss
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Thiemeleci GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiemeleci&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiemeleci&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Thiemeleci&theme=tokyonight&hide_border=true)
 
 ---
 
