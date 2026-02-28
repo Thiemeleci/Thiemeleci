@@ -1,60 +1,69 @@
 # 👋 Olá, eu sou o Thiemeleci Isaque
 
-## 💻 Desenvolvedor Full Stack
+💻 Desenvolvedor Full Stack em formação, focado na construção de aplicações web modernas, responsivas e escaláveis.
 
-Construo aplicações web modernas, responsivas e escaláveis utilizando o ecossistema JavaScript.
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-🚀 Foco em React, Next.js, Node.js e TypeScript  
-🎯 Buscando minha primeira oportunidade na área tech  
+Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e desenvolvo projetos utilizando o ecossistema JavaScript, aplicando boas práticas de código, organização e arquitetura.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Sobre mim
 
-### 🖥️ Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Back-end
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge)
-
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+🎯 Foco em Desenvolvimento Full Stack  
+🌐 Construção de aplicações web modernas  
+🧠 Criação de APIs REST e integração com bancos de dados  
+📚 Aprendizado contínuo e evolução técnica constante  
+🤝 Interesse em colaborar em projetos reais  
+🔎 Buscando minha primeira oportunidade na área tech  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tecnologias & Ferramentas
 
-![Thiemeleci GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiemeleci&show_icons=true&theme=tokyonight&hide_border=true)
+### 🔹 Front-end
+- React.js  
+- Next.js  
+- JavaScript  
+- TypeScript  
+- HTML5 & CSS3  
+- Tailwind CSS  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiemeleci&layout=compact&theme=tokyonight&hide_border=true)
+### 🔹 Back-end
+- Node.js  
+- API REST  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Thiemeleci&theme=tokyonight&hide_border=true)
+### 🔹 Banco de Dados
+- PostgreSQL  
+- MongoDB  
+- MySQL  
+
+### 🔹 Ferramentas
+- Git & GitHub  
+- VS Code  
 
 ---
 
 ## 📂 Projetos em Destaque
 
-🚀 Em constante evolução — sempre construindo novos projetos Full Stack.
+*(Em constante atualização)*
+
+- 💰 **Sistema de Controle Financeiro Full Stack**
+- 📋 **Aplicação de Gerenciamento de Tarefas (Kanban)**
+- 🌐 **Landing Pages e Interfaces Responsivas**
+
+---
+
+## 📈 Objetivo Profissional
+
+Atuar como desenvolvedor em projetos reais, contribuindo com soluções eficientes, evoluindo tecnicamente e agregando valor a equipes colaborativas.
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiemeleci-isaque-059116243)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiemeleci@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/thiemeleci-isaque-059116243  
+🧑‍💻 GitHub: https://github.com/Thiemeleci  
+📧 Email: thiemeleci@gmail.com  
 
 ---
 
-⭐ Sempre aprendendo, construindo e evoluindo como desenvolvedor.
+⭐ Sempre aberto a aprender, colaborar e crescer como desenvolvedor.
