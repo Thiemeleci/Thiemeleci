@@ -1,22 +1,23 @@
 ## 🚀 Tech Stack
 
+<div align="center">
+
 ### 🖥️ Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind&perline=5" />
+
+<br><br>
 
 ### ⚙️ Back-end
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://img.shields.io/badge/API_REST-0A0A0A?style=flat&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs&perline=5" />
+
+<br><br>
 
 ### 🗄️ Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&perline=5" />
+
+<br><br>
 
 ### 🔧 Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=5" />
+
+</div>
