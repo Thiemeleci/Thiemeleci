@@ -6,7 +6,7 @@ Construo aplicações web modernas, responsivas e escaláveis utilizando o ecoss
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
 🚀 Foco em React, Next.js, Node.js e TypeScript  
-🎯 Atuando no desenvolvimento de aplicações web modernas e escaláveis 
+🎯 Focado em desenvolvimento e construção de soluções digitais 
 
 ---
 
@@ -35,7 +35,7 @@ Construo aplicações web modernas, responsivas e escaláveis utilizando o ecoss
 
 ---
 
-## 📂 Projetos em Destaque
+// ## 📂 Projetos em Destaque
 
 🚀 Em constante evolução — sempre construindo novos projetos Full Stack.
 
