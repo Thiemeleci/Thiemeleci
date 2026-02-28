@@ -1,12 +1,12 @@
-# Olá, eu sou o Thiemeleci Isaque
+# Hi, I'm Thiemeleci Isaque
 
-## 💻 Desenvolvedor Full Stack
+## 💻 Full Stack Developer
 
-Construo aplicações web modernas, responsivas e escaláveis utilizando o ecossistema JavaScript.
+I build modern, responsive, and scalable web applications using the JavaScript ecosystem.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🎓 Student of Systems Analysis and Development (ADS)  
 🖥️ React, Next.js, Node.js e TypeScript  
-🎯 Focado em desenvolvimento e construção de soluções digitais 
+🎯 Focused on developing and building digital solutions 
 
 ---
 
@@ -23,18 +23,18 @@ Construo aplicações web modernas, responsivas e escaláveis utilizando o ecoss
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge)
 
-### Banco de Dados
+### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-Em constante evolução — sempre construindo novos projetos Full Stack.
+Constantly evolving — always building new Full Stack projects.
 
 ---
 
-## Contato
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiemeleci-isaque-059116243)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiemeleci@gmail.com)
