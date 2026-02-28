@@ -5,7 +5,7 @@
 I build modern, responsive, and scalable web applications using the JavaScript ecosystem.
 
 🎓 Student of Systems Analysis and Development (ADS)  
-🖥️ React, Next.js, Node.js e TypeScript  
+🖥️ React, Next.js, Node.js and TypeScript  
 🎯 Focused on developing and building digital solutions 
 
 ---
