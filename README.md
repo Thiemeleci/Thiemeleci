@@ -35,8 +35,6 @@ Construo aplicações web modernas, responsivas e escaláveis utilizando o ecoss
 
 ---
 
-// ## 📂 Projetos em Destaque
-
 🚀 Em constante evolução — sempre construindo novos projetos Full Stack.
 
 ---
@@ -48,4 +46,3 @@ Construo aplicações web modernas, responsivas e escaláveis utilizando o ecoss
 
 ---
 
-⭐ Sempre aprendendo, construindo e evoluindo como desenvolvedor.
