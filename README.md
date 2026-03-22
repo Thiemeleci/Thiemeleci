@@ -1,43 +1,92 @@
-# Hi, I'm Thiemeleci Isaque
+# 👋 Olá, eu sou [Seu Nome]
 
-## 💻 Full Stack Developer
+## ☕ Desenvolvedor Backend Java
 
-I build modern, responsive, and scalable web applications using the JavaScript ecosystem.
+Sou desenvolvedor backend focado na construção de APIs robustas, escaláveis e bem estruturadas utilizando o ecossistema Java. Tenho interesse em boas práticas de desenvolvimento, arquitetura limpa e aprendizado contínuo.
 
-🎓 Student of Systems Analysis and Development (ADS)  
-🖥️ React, Next.js, Node.js and TypeScript  
-🎯 Focused on developing and building digital solutions 
-
----
-
-## Tech Stack
-
-### Front-end
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Back-end
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Foco em Backend com Java
+🚀 Buscando evoluir constantemente como desenvolvedor
+📚 Aprendendo Spring Boot, APIs REST e Banco de Dados
 
 ---
 
-Constantly evolving — always building new Full Stack projects.
+## 🛠️ Tecnologias e Ferramentas
+
+### Backend
+
+* Java
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* APIs REST
+
+### Banco de Dados
+
+* MySQL
+* PostgreSQL
+* H2 Database
+
+### Ferramentas
+
+* Git & GitHub
+* Maven
+* Postman / Insomnia
+* IntelliJ IDEA / Eclipse
+* Docker (em aprendizado)
 
 ---
 
-## Contact
+## 📌 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiemeleci-isaque-059116243)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiemeleci@gmail.com)
+### 🔹 API REST de Gerenciamento de Usuários
+
+* CRUD completo
+* Validação de dados
+* Arquitetura em camadas
+* Spring Boot + JPA
+
+### 🔹 Sistema de Pedidos
+
+* Relacionamentos entre entidades
+* Banco de dados relacional
+* Tratamento de exceções
+* API RESTful
+
+### 🔹 API de Produtos
+
+* Paginação
+* Filtros
+* Boas práticas REST
+* DTOs
 
 ---
 
+## 📚 Atualmente Estudando
+
+* Arquitetura Limpa (Clean Architecture)
+* Microsserviços
+* Spring Security
+* Testes com JUnit e Mockito
+* Docker
+
+---
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+* LinkedIn: [Seu LinkedIn]
+* Email: [Seu Email]
+* GitHub: https://github.com/SEUUSERNAME
+
+---
+
+⭐ Sempre buscando aprender algo novo e evoluir como desenvolvedor backend Java.
