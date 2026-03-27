@@ -1,9 +1,5 @@
-# 🚀 Olá, eu sou Thiemeleci Isaque
+# Olá, eu sou Thiemeleci Isaque
 ### Desenvolvedor Backend Java | Estudante de ADS
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Status-Buscando_Oportunidades-2ea44f?style=flat-square&for-the-badge" alt="Status">
-</p>
 
 Sou um desenvolvedor focado na construção de APIs robustas, escaláveis e bem estruturadas utilizando o ecossistema Java. Minha paixão é transformar problemas complexos em código limpo e eficiente.
 
