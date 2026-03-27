@@ -21,6 +21,7 @@ Sou um desenvolvedor focado na construção de APIs robustas, escaláveis e bem 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="GitHub" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="70" alt="IntelliJ" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="70" alt="IntelliJ" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="IntelliJ" style="margin-right: 15px;" />
 </p>
 
