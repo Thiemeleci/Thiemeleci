@@ -46,12 +46,4 @@ Sou desenvolvedor backend focado na construção de APIs robustas, escaláveis e
 * Testes com JUnit e Mockito
 * Docker
 
----
-
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME\&layout=compact\&theme=tokyonight)
-
 
