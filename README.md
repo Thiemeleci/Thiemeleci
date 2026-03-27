@@ -1,13 +1,13 @@
-# 👋 Olá, eu sou Thiemeleci Isaque
+# Olá, eu sou Thiemeleci Isaque
 
-## ☕ Desenvolvedor Backend Java
+## Desenvolvedor Backend Java
 
 Sou desenvolvedor backend focado na construção de APIs robustas, escaláveis e bem estruturadas utilizando o ecossistema Java. Tenho interesse em boas práticas de desenvolvimento, arquitetura limpa e aprendizado contínuo.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Foco em Backend com Java
-🚀 Buscando evoluir constantemente como desenvolvedor
-📚 Aprendendo Spring Boot, APIs REST e Banco de Dados
+ Estudante de Análise e Desenvolvimento de Sistemas
+ Foco em Backend com Java
+ Buscando evoluir constantemente como desenvolvedor
+ Aprendendo Spring Boot, APIs REST e Banco de Dados
 
 ---
 
@@ -38,31 +38,6 @@ Sou desenvolvedor backend focado na construção de APIs robustas, escaláveis e
 
 ---
 
-## 📌 Projetos em Destaque
-
-### 🔹 API REST de Gerenciamento de Usuários
-
-* CRUD completo
-* Validação de dados
-* Arquitetura em camadas
-* Spring Boot + JPA
-
-### 🔹 Sistema de Pedidos
-
-* Relacionamentos entre entidades
-* Banco de dados relacional
-* Tratamento de exceções
-* API RESTful
-
-### 🔹 API de Produtos
-
-* Paginação
-* Filtros
-* Boas práticas REST
-* DTOs
-
----
-
 ## 📚 Atualmente Estudando
 
 * Arquitetura Limpa (Clean Architecture)
@@ -79,14 +54,4 @@ Sou desenvolvedor backend focado na construção de APIs robustas, escaláveis e
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME\&layout=compact\&theme=tokyonight)
 
----
 
-## 📫 Contato
-
-* LinkedIn: [Seu LinkedIn]
-* Email: [Seu Email]
-* GitHub: https://github.com/SEUUSERNAME
-
----
-
-⭐ Sempre buscando aprender algo novo e evoluir como desenvolvedor backend Java.
