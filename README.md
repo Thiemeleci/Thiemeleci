@@ -11,32 +11,51 @@ Sou desenvolvedor backend focado na construção de APIs robustas, escaláveis e
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+Tecnologias e Ferramentas
+Backend
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo"  />
+</p>
 
-### Backend
+Java
 
-* Java
-* Spring Boot
-* Spring MVC
-* Spring Data JPA
-* Hibernate
-* APIs REST
+Spring Framework (Boot, MVC, Data JPA)
 
-### Banco de Dados
+Hibernate
 
-* MySQL
-* PostgreSQL
-* H2 Database
+APIs REST
 
-### Ferramentas
+Banco de Dados
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+</p>
 
-* Git & GitHub
-* Maven
-* Postman / Insomnia
-* IntelliJ IDEA / Eclipse
-* Docker (em aprendizado)
+MySQL
 
----
+PostgreSQL
+
+H2 Database
+
+Ferramentas
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+</p>
+
+Git & GitHub
+
+Maven
+
+Postman / Insomnia
+
+IntelliJ IDEA / Eclipse
+
+Docker (Em aprendizado)
 
 ## 📚 Atualmente Estudando
 
