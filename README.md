@@ -1,7 +1,7 @@
 # Olá, eu sou Thiemeleci Isaque
-### Desenvolvedor Backend Java | Estudante de ADS
+### Desenvolvedor Backend Java | Spring Boot | SQL
 
-Sou um desenvolvedor focado na construção de APIs robustas, escaláveis e bem estruturadas utilizando o ecossistema Java. Minha paixão é transformar problemas complexos em código limpo e eficiente.
+Desenvolvedor Backend em formação, com foco no ecossistema Java e Spring Framework. Especializado na construção de APIs REST robustas e escaláveis, priorizando sempre a aplicação de boas práticas como Clean Code, SOLID e padrões de projeto. Tenho paixão por transformar requisitos complexos em soluções de software eficientes, seguras e de fácil manutenção.
 
 ---
 
