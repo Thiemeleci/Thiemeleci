@@ -17,6 +17,7 @@ Sou um desenvolvedor focado na construção de APIs robustas, escaláveis e bem 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" height="70" alt="Hibernate" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySQL" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="70" alt="Postgres" style="margin-right: 15px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" alt="IntelliJ" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="Git" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="70" alt="GitHub" style="margin-right: 15px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="70" alt="Docker" style="margin-right: 15px;" />
