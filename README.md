@@ -5,7 +5,7 @@ Desenvolvedor Backend em formação, com foco no ecossistema Java e Spring Frame
 
 ---
 
-### 🛠️ Minha Stack Tecnológica
+### Minha Stack Tecnológica
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50" alt="Java" style="margin-right: 15px;" />
