@@ -1,7 +1,7 @@
 # Olá, eu sou Thiemeleci Isaque 👋
-### Desenvolvedor Backend Python (Django) | Java (Spring Boot) | SQL
+### Desenvolvedor Backend  Java (Spring Boot) | SQL
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em desenvolvimento backend. Atualmente, meu foco principal é o ecossistema **Python**, utilizando **Django** e **Django Rest Framework** para construir APIs robustas, escaláveis e testadas (TDD). 
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco em desenvolvimento backend. Atualmente, meu foco principal é o ecossistema **Java**, utilizando o ecossistema **Spring** para construir APIs robustas, escaláveis e testadas (TDD). 
 
 Possuo uma base sólida no ecossistema **Java e Spring Boot**, o que me permite aplicar conceitos avançados de Programação Orientada a Objetos, Design Patterns e arquitetura de software em diferentes tecnologias. Busco constantemente aplicar boas práticas como Clean Code e SOLID para entregar soluções eficientes e de fácil manutenção.
 
