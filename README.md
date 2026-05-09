@@ -34,9 +34,3 @@ Possuo uma base sólida no ecossistema **Java e Spring Boot**, o que me permite 
 
 ---
 
-### 📫 Vamos nos conectar?
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
