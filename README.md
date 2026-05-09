@@ -26,11 +26,4 @@ Possuo uma base sólida no ecossistema **Java e Spring Boot**, o que me permite 
 
 ---
 
-### 🛠️ Projetos e Estudos
-*  Desenvolvimento de APIs RESTful com **Django Rest Framework**.
-*  Práticas de **TDD** e testes automatizados com Pytest e Selenium.
-*  Estudos de deploy e configuração de servidores Linux (SSH, GCP).
-*  Manutenção de conhecimentos em **Java Spring Boot** como stack secundária.
-
----
 
