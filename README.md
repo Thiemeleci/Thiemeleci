@@ -24,17 +24,15 @@ Minha abordagem é pautada na construção de sistemas robustos e eficientes, on
 
 ---
 
-### 📚 Especialização & Engenharia de Software
+### 📚 Especialização & Aprendizado Contínuo
 
-Transformando requisitos complexos em soluções escaláveis através de:
+Estou aprimorando meu portfólio com foco em tecnologias de alta demanda, incluindo:
 
-- **Arquiteturas de Microsserviços:** Domínio de ecossistema Spring Cloud, Service Discovery, Config Server e mensageria assíncrona.
-- **Ecossistema RESTful Pro:** Implementação de APIs com alto nível de maturidade (HATEOAS), paginação dinâmica, versionamento e segurança avançada com JWT.
-- **Inteligência Artificial Aplicada:** Desenvolvimento de backends inteligentes integrando **Spring AI** com modelos LLM (GPT-4) para automação e geração de conteúdo.
-- **Cultura DevOps & QA:** Pipelines de CI/CD automatizados para nuvem (AWS/GCP), garantindo qualidade com JUnit 5, Mockito e **TestContainers** para ambientes reais.
-- **Gestão de Dados:** Persistência eficiente com JPA/Hibernate, versionamento de banco de dados via Flyway e geração de relatórios complexos com JasperReports.
-
----
+- **APIs RESTful Avançadas:** Desenvolvimento com HATEOAS, paginação, versionamento e segurança com JWT.
+- **Arquitetura de Microsserviços:** Implementação de stacks com Spring Cloud Config, processamento assíncrono e comunicação via Feign.
+- **Inteligência Artificial:** Integração de Java com Spring AI para criar soluções inteligentes conectadas ao ecossistema da OpenAI (GPT-4, DALL-E).
+- **QA & DevOps:** Testes rigorosos com JUnit 5, Mockito e TestContainers; deploy contínuo (CI/CD) via GitHub Actions para AWS e Google Cloud.
+- **Relatórios & Dados:** Geração de relatórios com JasperReports e Apache POI, além de automação de e-mails com Spring Mail.
 
 ### 📂 Projetos em Destaque
 
