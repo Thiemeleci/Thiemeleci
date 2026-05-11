@@ -1,47 +1,50 @@
-# 🚀 Java Backend Developer | Thiemeleci Isaque
+🚀 Java Backend Developer | Thiemeleci Isaque
 
 Olá! Eu sou o **Thiemeleci Isaque**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado no ecossistema Java. Atualmente, estou em uma jornada intensa de especialização em arquiteturas escaláveis, microsserviços e integração de Inteligência Artificial.
 
-Minha abordagem é pautada em **Software Quality**: Clean Code, SOLID e Design Patterns são a base de tudo o que desenvolvo.
+Minha abordagem é pautada na construção de sistemas robustos e eficientes, onde **Clean Code**, **SOLID** e **Design Patterns** não são apenas conceitos, mas a base de cada linha de código.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Atalhos
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p align="left">
+  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"></a>
+  <a href="https://hibernate.org/" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"></a>
+  <a href="https://spring.io/projects/spring-security" target="_blank"><img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"></a>
+</p>
 
 ---
 
-### 📚 Especialização & Aprendizado Contínuo
+### 📚 Especialização & Engenharia de Software
 
-Estou aprimorando meu portfólio com foco em tecnologias de alta demanda, incluindo:
+Transformando requisitos complexos em soluções escaláveis através de:
 
-- **APIs RESTful Avançadas:** Desenvolvimento com HATEOAS, paginação, versionamento e segurança com JWT.
-- **Arquitetura de Microsserviços:** Implementação de stacks com Spring Cloud Config, processamento assíncrono e comunicação via Feign.
-- **Inteligência Artificial:** Integração de Java com Spring AI para criar soluções inteligentes conectadas ao ecossistema da OpenAI (GPT-4, DALL-E).
-- **QA & DevOps:** Testes rigorosos com JUnit 5, Mockito e TestContainers; deploy contínuo (CI/CD) via GitHub Actions para AWS e Google Cloud.
-- **Relatórios & Dados:** Geração de relatórios com JasperReports e Apache POI, além de automação de e-mails com Spring Mail.
+- **Arquiteturas de Microsserviços:** Domínio de ecossistema Spring Cloud, Service Discovery, Config Server e mensageria assíncrona.
+- **Ecossistema RESTful Pro:** Implementação de APIs com alto nível de maturidade (HATEOAS), paginação dinâmica, versionamento e segurança avançada com JWT.
+- **Inteligência Artificial Aplicada:** Desenvolvimento de backends inteligentes integrando **Spring AI** com modelos LLM (GPT-4) para automação e geração de conteúdo.
+- **Cultura DevOps & QA:** Pipelines de CI/CD automatizados para nuvem (AWS/GCP), garantindo qualidade com JUnit 5, Mockito e **TestContainers** para ambientes reais.
+- **Gestão de Dados:** Persistência eficiente com JPA/Hibernate, versionamento de banco de dados via Flyway e geração de relatórios complexos com JasperReports.
 
 ---
 
 ### 📂 Projetos em Destaque
 
-- **FinanceFlow:** Sistema de gestão financeira desktop utilizando JavaFX e Spring Boot.
-- **B7 Estoque:** Sistema de gerenciamento de estoque utilizando Node.js e PostgreSQL.
-- **Intelligent Backend:** Projetos focados na integração de LLMs para automação e análise de dados.
+- **FinanceFlow:** Aplicação desktop de alta performance para gestão financeira, integrando JavaFX e Spring Boot.
+- **B7 Estoque:** Sistema robusto de controle de inventário com foco em integridade de dados e performance.
+- **Smart-API Gateway:** Experimentos integrando inteligência artificial generativa diretamente no fluxo de processamento backend.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Performance & Atividade
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thiemeleci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
@@ -50,12 +53,14 @@ Estou aprimorando meu portfólio com foco em tecnologias de alta demanda, inclui
 
 ---
 
-### 📫 Contato
+### 📫 Vamos Conversar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiemeleci-isaque/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/thiemeleci-isaque/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:seu-email@exemplo.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
 ---
 <p align="center">
-  "Clean code always looks like it was written by someone who cares." — Robert C. Martin
+  <i>"A tecnologia é apenas uma ferramenta. O que importa é a solução que você constrói com ela."</i>
 </p>
