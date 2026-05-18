@@ -1,12 +1,12 @@
-🚀 Java Backend Developer | Thiemeleci Isaque
+Desenvolvedor Backend Java | Thiemeleci Isaque
 
 Olá! Eu sou o **Thiemeleci Isaque**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor focado no ecossistema Java. Atualmente, estou em uma jornada intensa de especialização em arquiteturas escaláveis, microsserviços e integração de Inteligência Artificial.
 
-Minha abordagem é pautada na construção de sistemas robustos e eficientes, onde **Clean Code**, **SOLID** e **Design Patterns** não são apenas conceitos, mas a base de cada linha de código.
+Minha abordagem é pautada na construção de sistemas robustos e eficientes, onde **Clean Code**, **SOLID** e **Design Patterns** são a base de cada linha de código.
 
 ---
 
-### 🛠️ Tech Stack & Atalhos
+### Tech Stack & Atalhos
 
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
@@ -24,7 +24,7 @@ Minha abordagem é pautada na construção de sistemas robustos e eficientes, on
 
 ---
 
-### 📚 Especialização & Aprendizado Contínuo
+### Especialização & Aprendizado Contínuo
 
 Estou aprimorando meu portfólio com foco em tecnologias de alta demanda, incluindo:
 
