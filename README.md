@@ -6,7 +6,7 @@ Minha abordagem é pautada na construção de sistemas robustos e eficientes, on
 
 ---
 
-### Tech Stack & Atalhos
+### Linguagens e Ferramentas
 
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
